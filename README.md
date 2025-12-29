@@ -8,4 +8,4 @@ Live the best of urban life inside undulating greenery coveted with modern ameni
 ---
 ## Impact & Analysis
 **User Psychology:** Restructured technical property specs into a "Lifestyle-First" narrative to reduce buyer anxiety.
-**Sociological Insight:** Adapted communication style to bridge the gap between digital platforms and traditional home-buying values in Bangladesh.
+* **Sociological Insight:** Adapted communication style to bridge the gap between digital platforms and traditional home-buying values in Bangladesh.
